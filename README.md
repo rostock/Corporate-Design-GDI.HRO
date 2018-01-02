@@ -1,15 +1,14 @@
-# Klarschiff – Corporate Design
+# *Klarschiff* – Corporate Design
 
+The graphics representing the corporate design of the *Klarschiff* project
 
 ## Background
 
-These graphics were designed in the course of the **Klarschiff** project and are sort of representing the corporate design of it.
-
+These graphics were designed in the course of the *Klarschiff* project and are sort of representing the corporate design of it.
 
 ## Formats
 
 All icons are available both as [Scalable Vector Graphics (SVG)](http://en.wikipedia.org/wiki/Svg) and [Portable Network Graphics (PNG)](http://en.wikipedia.org/wiki/Portable_Network_Graphics).
-
 
 ## Contact
 
