@@ -1,6 +1,6 @@
 # *Klarschiff* – Corporate Design
 
-The graphics representing the corporate design of the *Klarschiff* project
+The graphics representing the corporate design of the *Klarschiff* project – view it in production: https://demo.klarschiff-hro.de
 
 ## Background
 
