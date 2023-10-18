@@ -11,7 +11,7 @@ The graphics are distributed across different folders, each representing a proje
 - `geoport` – representing [*Geoport.HRO*](https://geoport-hro.de) (see also corresponding [*GitHub* project](https://github.com/rostock/geoporthro))
 - `klarschiff` – representing [*Klarschiff*](https://klarschiff-hro.de) (see also corresponding [*GitHub* project](https://github.com/bfpi/klarschiff-backoffice))
 - `opendata` – representing [*OpenData.HRO*](https://opendata-hro.de) (see also corresponding [*GitHub* project](https://github.com/rostock/ckanext-hro_theme))
-- `orka` – representing [*ORKa.MV*](https://orka-mv.de) (see also corresponding [*GitHub* project](https://github.com/bfpi/klarschiff-backoffice))
+- `orka` – representing [*ORKa.MV*](https://orka-mv.de) (see also corresponding [*GitHub* project](https://github.com/rostock/orka-app))
 
 ## Formats
 
