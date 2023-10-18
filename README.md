@@ -1,27 +1,18 @@
-# *Geoport.HRO*
+# Corporate Design GDI.HRO
 
-The graphics representing the corporate design of the *Geoport.HRO* project – view it in production: https://www.geoport-hro.de
+The graphics representing the corporate design of the geospatial data infrastructure of the municipality of Rostock (GDI.HRO)
 
-## Background
+## Folders
 
-These graphics were designed in the course of the *Geoport.HRO* project and are sort of representing the corporate design of it.
+The graphics are distributed across different folders, each representing a project within the GDI.HRO:
 
-## Formats
-
-All icons are available both as [Scalable Vector Graphics (SVG)](http://en.wikipedia.org/wiki/Svg).
-
-# *Klarschiff*
-
-The graphics representing the corporate design of the *Klarschiff* project – view it in production: https://demo.klarschiff-hro.de
-
-## Background
-
-These graphics were designed in the course of the *Klarschiff* project and are sort of representing the corporate design of it.
+- `datenwerft` – representing [*Datenwerft.HRO*](https://geo.sv.rostock.de/datenwerft) (see also corresponding [*GitHub* project](https://github.com/rostock/datenwerft))
+- `geolotse` – representing [*Geolotse.HRO*](https://geo.sv.rostock.de) (see also corresponding [*GitHub* project](https://github.com/rostock/geolotse))
+- `geoport` – representing [*Geoport.HRO*](https://geoport-hro.de) (see also corresponding [*GitHub* project](https://github.com/rostock/geoporthro))
+- `klarschiff` – representing [*Klarschiff*](https://klarschiff-hro.de) (see also corresponding [*GitHub* project](https://github.com/bfpi/klarschiff-backoffice))
+- `opendata` – representing [*OpenData.HRO*](https://opendata-hro.de) (see also corresponding [*GitHub* project](https://github.com/rostock/ckanext-hro_theme))
+- `orka` – representing [*ORKa.MV*](https://orka-mv.de) (see also corresponding [*GitHub* project](https://github.com/bfpi/klarschiff-backoffice))
 
 ## Formats
 
-All icons are available both as [Scalable Vector Graphics (SVG)](http://en.wikipedia.org/wiki/Svg) and [Portable Network Graphics (PNG)](http://en.wikipedia.org/wiki/Portable_Network_Graphics).
-
-# Contact
-
-Feel free to contact the creators of these graphics set via e-mail: <geodienste@rostock.de>.
+All graphics are available both as [Scalable Vector Graphics (SVG)](http://en.wikipedia.org/wiki/Svg) and [Portable Network Graphics (PNG)](http://en.wikipedia.org/wiki/Portable_Network_Graphics).
