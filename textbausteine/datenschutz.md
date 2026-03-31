@@ -10,6 +10,7 @@ An der Jägerbäk 3
 ## Behördliche:r Datenschutzbeauftragte:r 
 
 Hanse- und Universitätsstadt Rostock  
+Die Oberbürgermeisterin  
 Büro der Oberbürgermeisterin  
 Behördlicher Datenschutz  
 18050 Rostock  
