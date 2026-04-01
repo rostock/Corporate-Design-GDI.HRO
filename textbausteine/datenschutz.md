@@ -11,10 +11,10 @@ An der Jägerbäk 3
 
 Hanse- und Universitätsstadt Rostock  
 Die Oberbürgermeisterin  
-Büro der Oberbürgermeisterin  
+Büro der Oberbürgermeisterin 
 Behördlicher Datenschutz  
 18050 Rostock  
-E-Mail: [datenschutz@rostock.de](mailto:datenschutz@rostock.de)
+[datenschutz@rostock.de](mailto:datenschutz@rostock.de)
 
 
 ## Nutzung der Website

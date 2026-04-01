@@ -1,7 +1,7 @@
 ## Herausgeberin  
 
 Hanse- und Universitätsstadt Rostock  
-Die Oberbürgermeisterin 
+Die Oberbürgermeisterin  
 18050 Rostock  
 [ob@rostock.de](mailto:ob@rostock.de)
 
